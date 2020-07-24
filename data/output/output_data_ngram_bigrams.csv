@@ -1,0 +1,11 @@
+bigram,count
+"('sell', 'buy')",245
+"('business', 'buy')",220
+"('canned', 'good')",165
+"('drinking', 'water')",160
+"('water', 'filter')",156
+"('safe', 'drinking')",154
+"('buy', 'water')",146
+"('item', 'sell')",142
+"('buy', 'additional')",139
+"('provide', 'safe')",138

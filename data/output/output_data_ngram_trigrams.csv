@@ -1,0 +1,11 @@
+trigram,count
+"('safe', 'drinking', 'water')",154
+"('buy', 'water', 'filter')",142
+"('water', 'filter', 'provide')",138
+"('filter', 'provide', 'safe')",138
+"('provide', 'safe', 'drinking')",138
+"('drinking', 'water', 'family')",121
+"('item', 'sell', 'like')",104
+"('buy', 'item', 'sell')",104
+"('water', 'family', 'buy')",76
+"('like', 'canned', 'good')",68
